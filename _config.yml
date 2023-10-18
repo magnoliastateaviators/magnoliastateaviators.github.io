@@ -22,9 +22,7 @@ title: Magnolia State Aviators
 email: magnoliastateaviators@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Magnolia State Aviators are an Academy of Model Aeronautics
-  club local to the Starkville, MS area. We have a wide range of fliers,
-  from park electrics, to big gassers, along with a few sailplane enthusiasts.
-  We would love to see you out at the flying field to join us in the near future!
+  club local to the Starkville, MS area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
