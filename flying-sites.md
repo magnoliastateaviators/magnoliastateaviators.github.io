@@ -15,7 +15,7 @@ Any violations of the following rules will result in swift punishment, up to and
 
 ### Rules
 **1. Review, understand, and comply with [MSU Operating Policy 79.11](https://www.policies.msstate.edu/sites/www.policies.msstate.edu/files/7911.pdf)’s recreational flight guidelines**  
-Namely, understand that you must be approved as an individual to fly, and you must give 24 hours' notice to the RFRL Aviation Safety Officer. At present that is best done by emailing <msuuas@msstate.edu> with your expected times of operation.  
+Namely, understand that you must be approved as an individual to fly, and you must give 24 hours' notice to the RFRL Aviation Safety Officer. At present that is best done by emailing <uasoprequest@msstate.edu> with your expected times of operation.  
 
 **2. Follow all [AMA Safety Code](https://www.modelaircraft.org/system/files/documents/105.pdf) rules**  
 Pay close attention to the rule of **not overflying people, structures, or vehicles,** if there are MSU North Farm personnel working in the field in front of you, then you must not overfly them. Even if they are not MSU affiliated (many people walk or jog at North Farm), they have a right to enjoyment of the property too and you may not overfly them.
