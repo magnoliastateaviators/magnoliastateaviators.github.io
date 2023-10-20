@@ -3,10 +3,12 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <div class="site-title">
-      <img src="{{"/logo.png" | relative_url}}" alt="Magnolia State Aviators Logo" height="50"/>
-    </div>
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      <div class="site-title">
+        <img src="{{"/logo.png" | relative_url}}" alt="Magnolia State Aviators Logo" height="50"/>
+      </div>
+      {{ site.title | escape }}
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
