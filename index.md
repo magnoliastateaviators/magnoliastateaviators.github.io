@@ -4,6 +4,10 @@
 
 layout: home
 ---
+<div class="centered">
+<img src="{{"/logo.png" | relative_url}}" alt="Magnolia State Aviators Logo" width="200"/>
+</div>
+  
 
 The Magnolia State Aviators are an Academy of Model Aeronautics club local to the Starkville, MS area. We have a wide range of fliers, from park electrics, to big gassers, along with a few sailplane enthusiasts. We would love to see you out at the flying field to join us in the near future!
 

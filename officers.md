@@ -6,7 +6,7 @@ permalink: /officers/
 # Elected Officers
 **President**: Matthew Berk  
 **Vice-president**: Greg Stewart  
-**Secretary**: \<vacant\>  
+**Secretary**: Jake Sims  
 **Treasurer**: Chris White  
 **Chief Safety Officer**: Sean Meacham  
 
